@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PowerCal\bin\Debug\net6.0\PowerCal.exe
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PowerCal\bin\Debug\net6.0\PowerCal.deps.json
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PowerCal\bin\Debug\net6.0\PowerCal.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PowerCal\bin\Debug\net6.0\PowerCal.dll
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PowerCal\bin\Debug\net6.0\PowerCal.pdb
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PowerCal\obj\Debug\net6.0\PowerCal.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PowerCal\obj\Debug\net6.0\PowerCal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PowerCal\obj\Debug\net6.0\PowerCal.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PowerCal\obj\Debug\net6.0\PowerCal.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PowerCal\obj\Debug\net6.0\PowerCal.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PowerCal\obj\Debug\net6.0\PowerCal.dll
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PowerCal\obj\Debug\net6.0\refint\PowerCal.dll
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PowerCal\obj\Debug\net6.0\PowerCal.pdb
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PowerCal\obj\Debug\net6.0\PowerCal.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PowerCal\obj\Debug\net6.0\ref\PowerCal.dll

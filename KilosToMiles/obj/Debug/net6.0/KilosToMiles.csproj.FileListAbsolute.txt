@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\Assessment 01\KilosToMiles\obj\Debug\net6.0\KilosToMiles.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\Assessment 01\KilosToMiles\obj\Debug\net6.0\KilosToMiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\Assessment 01\KilosToMiles\obj\Debug\net6.0\KilosToMiles.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\Assessment 01\KilosToMiles\obj\Debug\net6.0\KilosToMiles.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\Assessment 01\KilosToMiles\obj\Debug\net6.0\KilosToMiles.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\Assessment 01\KilosToMiles\bin\Debug\net6.0\KilosToMiles.exe
+C:\Users\asus\OneDrive\Desktop\Assessment 01\KilosToMiles\bin\Debug\net6.0\KilosToMiles.deps.json
+C:\Users\asus\OneDrive\Desktop\Assessment 01\KilosToMiles\bin\Debug\net6.0\KilosToMiles.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\Assessment 01\KilosToMiles\bin\Debug\net6.0\KilosToMiles.dll
+C:\Users\asus\OneDrive\Desktop\Assessment 01\KilosToMiles\bin\Debug\net6.0\KilosToMiles.pdb
+C:\Users\asus\OneDrive\Desktop\Assessment 01\KilosToMiles\obj\Debug\net6.0\KilosToMiles.dll
+C:\Users\asus\OneDrive\Desktop\Assessment 01\KilosToMiles\obj\Debug\net6.0\refint\KilosToMiles.dll
+C:\Users\asus\OneDrive\Desktop\Assessment 01\KilosToMiles\obj\Debug\net6.0\KilosToMiles.pdb
+C:\Users\asus\OneDrive\Desktop\Assessment 01\KilosToMiles\obj\Debug\net6.0\KilosToMiles.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\Assessment 01\KilosToMiles\obj\Debug\net6.0\ref\KilosToMiles.dll

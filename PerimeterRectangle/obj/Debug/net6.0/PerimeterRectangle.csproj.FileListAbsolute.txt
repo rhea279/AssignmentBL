@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PerimeterRectangle\bin\Debug\net6.0\PerimeterRectangle.exe
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PerimeterRectangle\bin\Debug\net6.0\PerimeterRectangle.deps.json
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PerimeterRectangle\bin\Debug\net6.0\PerimeterRectangle.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PerimeterRectangle\bin\Debug\net6.0\PerimeterRectangle.dll
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PerimeterRectangle\bin\Debug\net6.0\PerimeterRectangle.pdb
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PerimeterRectangle\obj\Debug\net6.0\PerimeterRectangle.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PerimeterRectangle\obj\Debug\net6.0\PerimeterRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PerimeterRectangle\obj\Debug\net6.0\PerimeterRectangle.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PerimeterRectangle\obj\Debug\net6.0\PerimeterRectangle.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PerimeterRectangle\obj\Debug\net6.0\PerimeterRectangle.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PerimeterRectangle\obj\Debug\net6.0\PerimeterRectangle.dll
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PerimeterRectangle\obj\Debug\net6.0\refint\PerimeterRectangle.dll
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PerimeterRectangle\obj\Debug\net6.0\PerimeterRectangle.pdb
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PerimeterRectangle\obj\Debug\net6.0\PerimeterRectangle.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\Assessment 01\PerimeterRectangle\obj\Debug\net6.0\ref\PerimeterRectangle.dll
